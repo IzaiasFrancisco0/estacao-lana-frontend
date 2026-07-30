@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  /* Cores - Palette Profissional Blue/Slate */
+  --background: #f8fafc; /* slate-50 */
+  --foreground: #0f172a; /* slate-900 */
+
+  --primary: #2563eb; /* blue-600 */
+  --primary-hover: #1d4ed8; /* blue-700 */
+
+  --secondary: #64748b; /* slate-500 */
+
+  --success: #10b981; /* emerald-500 */
+  --warning: #f59e0b; /* amber-500 */
+  --danger: #ef4444; /* red-500 */
+
+  /* Cards */
+  --card: #ffffff;
+  --card-border: #e2e8f0; /* slate-200 */
+
+  /* Inputs */
+  --input: #ffffff;
+  --input-border: #cbd5e1; /* slate-300 */
+
+  /* Radius */
+  --radius: 12px;
+}
